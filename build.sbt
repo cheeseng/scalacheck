@@ -4,7 +4,7 @@ val scalaMajorVersion = SettingKey[Int]("scalaMajorVersion")
 
 scalaVersionSettings
 
-lazy val versionNumber = "1.14.1"
+lazy val versionNumber = "1.14.1-local"
 
 lazy val isRelease = false
 
